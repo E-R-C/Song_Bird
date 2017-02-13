@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a56251af71132e046981771d8da417fd
+timeCreated: 1486594828
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LDFComicSans
+  fontNames:
+  - LDFComicSans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
